@@ -45,3 +45,13 @@ body:
         - Add any other context or screenshots about the feature here.
     validations:
       required: false
+     
+      - type: textarea
+    attributes:
+      label: i am new enthusiast here exitingly wonderd about to know that, how the Action will works in jenkin, github?
+      description: |
+        - what changes are to be occured when we tying to push new addition and regression 
+        - how it will works with local IDE editor?
+    validations:
+      required: false
+
